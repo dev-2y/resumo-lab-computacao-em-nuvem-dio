@@ -52,3 +52,32 @@ A computação em nuvem oferece uma série de vantagens que a tornam uma escolha
 ### Gerenciabilidade
 * **Automação:** Muitas tarefas de gerenciamento podem ser automatizadas, o que economiza tempo e reduz o risco de erros.
 * **Consoles intuitivos:** Os provedores de nuvem oferecem consoles intuitivos que facilitam o gerenciamento dos seus recursos.
+
+
+## Computação em Nuvem: IaaS, PaaS e SaaS e o Modelo de Responsabilidade Compartilhada
+
+Existem três modelos de serviço principais na computação em nuvem: IaaS, PaaS e SaaS. Cada um deles oferece diferentes níveis de abstração e responsabilidades.
+
+### IaaS (Infrastructure as a Service - Infraestrutura como Serviço)
+
+* **O que é:** O IaaS fornece os componentes básicos da computação: servidores, armazenamento e redes. É como alugar um data center virtual.
+* **Responsabilidades:** O cliente é responsável por quase tudo: sistemas operacionais, bancos de dados, aplicações, segurança e patches. O provedor se encarrega da infraestrutura física.
+
+### PaaS (Platform as a Service - Plataforma como Serviço)
+
+* **O que é:** O PaaS oferece uma plataforma completa para desenvolvimento e implantação de aplicativos. Inclui ferramentas, linguagens de programação e ambientes de desenvolvimento.
+* **Responsabilidades:** O provedor gerencia a infraestrutura e a plataforma, enquanto o cliente se concentra no desenvolvimento do aplicativo.
+
+### SaaS (Software as a Service - Software como Serviço)
+
+* **O que é:** O SaaS oferece aplicativos completos via internet. Os usuários acessam o software através de um navegador web.
+* **Responsabilidades:** O provedor gerencia toda a infraestrutura, plataforma e aplicação. O cliente apenas utiliza o software.
+* **Exemplo:** Google Docs, Salesforce, Microsoft 365.
+
+### Modelo de Responsabilidade Compartilhada
+
+**A responsabilidade varia de acordo com o modelo de serviço:**
+
+* **IaaS:** O cliente tem mais responsabilidades, pois gerencia quase todos os aspectos da infraestrutura.
+* **PaaS:** O cliente tem menos responsabilidades, pois o provedor gerencia a plataforma.
+* **SaaS:** O cliente tem menos responsabilidades, pois o provedor gerencia tudo.
